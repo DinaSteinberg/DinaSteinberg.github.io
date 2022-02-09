@@ -11,9 +11,9 @@ export default () => {
                 <li>BS Computer Science Touro University</li>
                 <ul style={{paddingBottom: 0}}>
                     <li style={subBullet}> Data Structures I and II</li>
-                    <li style={subBullet}>UNIX Operating Systems</li>
+                    <li style={subBullet}>Practicum in Software Development</li>
                     <li style={subBullet}>Programming Languages</li>
-                    <li style={subBullet}>Computer Architecture</li>
+                    <li style={subBullet}>Advanced Topics in Object Oriented Programming</li>
                 </ul>
             </ul>
         </div>

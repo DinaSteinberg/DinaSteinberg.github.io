@@ -7,9 +7,16 @@ export default () => {
             <Badge bg="secondary">Java</Badge>
             <Badge bg="secondary">JavaScript</Badge>
             <br />
+            <Badge bg="secondary">HTML/CSS</Badge>
             <Badge bg="secondary">SQL</Badge>
             <Badge bg="secondary">Python</Badge>
-            <Badge bg="secondary">System Design</Badge>
+            <br />
+            <Badge bg="secondary">Operating Systems</Badge>
+            <Badge bg="secondary">Object Oriented Programming</Badge>
+            <br />
+            <Badge bg="secondary">Design Patterns</Badge>
+            
+            
         </h4>
     </div>
 }

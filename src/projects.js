@@ -7,35 +7,35 @@ export default () => {
             <Col>
                 <Row>
                     <Col>
-                        <Card style={{ width: '18rem' }}>
+                        <Card style={{ width: '18rem', margin:'1.5rem', shadow:'10px' }}>
                             <Card.Body>
-                                <Card.Title>Project 1</Card.Title>
+                                <Card.Title>Sample DataBase project</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    Here's a database that keeps track of credit cards. I worked on this with some friends as a semester project last semester.
                                 </Card.Text>
-                                <Button onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button onClick={() => window.open("https://github.com/DinaSteinberg/creditCard_dataBase")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
-                        <Card style={{ width: '18rem' }}>
+                        <Card style={{ width: '18rem', margin:'1.5rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 2</Card.Title>
+                                <Card.Title>Sample Android App</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    This is an Android app that I build this past summer. There is no API built to run the app, but the UI is fully functional.
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/DinaSteinberg/AndroidApp_Silencer")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
-                        <Card style={{ width: '18rem' }}>
+                        <Card style={{ width: '18rem', margin:'1.5rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 3</Card.Title>
+                                <Card.Title>Sample Website</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    I learned HTML, CSS, and JS basics my first semester. Here is my semester project, coded from scratch using HTML and CSS. No JSX for me!
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/DinaSteinberg/TheFreeDecorator")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -43,24 +43,24 @@ export default () => {
                 <Row>
                     <Col />
                     <Col>
-                        <Card style={{ width: '18rem' }}>
+                        <Card style={{ width: '18rem', margin:'1.5rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 4</Card.Title>
+                                <Card.Title>Sample Java Project</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                   Yet another semester project. This one was done in a group. We made an application that enables students to submit work and teachers to grade it.
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/DinaSteinberg/UniversityPortal")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
-                        <Card style={{ width: '18rem' }}>
+                        <Card style={{ width: '18rem', margin:'1.5rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 5</Card.Title>
+                                <Card.Title>My LinkedIn Profile</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    Click below to see my LinkedIn profile!
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://www.linkedin.com/in/dinasteinberg/")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>

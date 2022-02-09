@@ -14,7 +14,6 @@ function App() {
       <header className="App-header">
         <Intro />
         <Projects />
-        <Experience />
         <Education />
         <Skills />
         <Other />
